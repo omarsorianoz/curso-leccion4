@@ -6,7 +6,7 @@ package com.curso.leccion4;
 
 /**
  *
- * @author danie
+ * @author danie tapia soriano
  */
 public class Leccion4 {
 
